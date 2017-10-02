@@ -1,0 +1,20 @@
+H:\Visula Studio\ServiceManager\obj\x86\Debug\ServiceManager.csprojResolveAssemblyReference.cache
+H:\Visula Studio\ServiceManager\obj\x86\Debug\ServiceManager.Properties.Resources.resources
+H:\Visula Studio\ServiceManager\obj\x86\Debug\ServiceManager.csproj.GenerateResource.Cache
+H:\Visula Studio\ServiceManager\obj\x86\Debug\ServiceManager.csproj.CoreCompileInputs.cache
+H:\Visula Studio\ServiceManager\obj\x86\Debug\ServiceManager.Form1.resources
+H:\Visula Studio\ServiceManager\bin\Debug\WindowsApplication.exe.config
+H:\Visula Studio\ServiceManager\bin\Debug\WindowsApplication.exe
+H:\Visula Studio\ServiceManager\bin\Debug\WindowsApplication.pdb
+H:\Visula Studio\ServiceManager\obj\x86\Debug\WindowsApplication.exe
+H:\Visula Studio\ServiceManager\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\bin\Debug\WindowsApplication.exe.config
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\bin\Debug\WindowsApplication.exe
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\bin\Debug\WindowsApplication.pdb
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\ServiceManager.csprojResolveAssemblyReference.cache
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\ServiceManager.Form1.resources
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\ServiceManager.Properties.Resources.resources
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\ServiceManager.csproj.GenerateResource.Cache
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\ServiceManager.csproj.CoreCompileInputs.cache
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\WindowsApplication.exe
+C:\Users\izzaz\OneDrive\VisualStudio\ServiceManager\obj\x86\Debug\WindowsApplication.pdb
